@@ -1,0 +1,19 @@
+---
+layout: post
+title: "My first blog post"
+date: 2015-05-25
+categories:
+---
+Introduction:
+
+Hello and welcome to my first blog!  I'm very excited to get started with my own website;
+although a lot of the behind-the-scenes stuff was done with Jekyll and the Polar Bear Theme, it's good to get your feet wet in frameworks.  If you're unfamiliar with frameworks, I'll explain: a framework is a set of tools designed for programmers to make reusable code and to take away some of the abstraction of that topic.  A "web" framework is a framework used for web development, both front and back-end (i.e. Flask).  A "css" framework is a framework used for making your HTML look pretty (because that's what CSS does).  
+
+*Why frameworks*?
+
+Now I'm not a "huge" proponent of frameworks; in fact, I prefer learning about tools
+and building them myself to understand everything about that tool and its limits.  To put it bluntly, I wanted something quick and fast that took that abstraction away -- my interests are really not in making pretty websites, after all.  
+
+What's next?
+
+I'm hoping to have some cool API stuff for my next blog post.  
