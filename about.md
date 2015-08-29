@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me!
-permalink: /about/
+permalink: http://jboo1212.github.io/about/
 ---
 I am a software engineer focusing mainly on Python and Javascript.
 In my spare time, I watch animes and korean dramas and read science
